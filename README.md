@@ -2,7 +2,8 @@
 
 Aplicativo de dados desenvolvido em Flutter durante meu aprendizado de desenvolvimento mobile.
 
-![Demo do App]<img src="demo/dadoos.gif" width="300" alt="Demo do App">
+Demo do App
+<img src="demo/dadoos.gif" width="300" alt="Demo do App">
 
 ## Sobre
 
